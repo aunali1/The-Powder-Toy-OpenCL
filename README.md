@@ -1,2 +1,0 @@
-The-Powder-Toy-OpenCL
-=====================
